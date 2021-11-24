@@ -38,6 +38,5 @@ int main( )
 {
    cout << power(3) << endl;
 
-   system("pause");
    return 0;
 }
